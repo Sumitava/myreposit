@@ -6,6 +6,5 @@
 </head>
 
 <body>
-<iframe src="http://www.spa-booker.com/Customer/floatworkscw/BookOnlineStart.aspx"width="450" height="450" style="border:none;text-alig"></iframe>
-</body>
+
 </html>
